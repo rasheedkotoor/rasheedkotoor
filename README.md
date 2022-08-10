@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rasheedkotoor
-- 👀 I’m interested in webdevelopment using Django and ML using Python
-- 🌱 I’m currently learning Django Class based views
-- 💞️ I’m looking to collaborate on ML projects
+- 👀 I’m interested in problem solving and reasoning.
+- 🌱 I’m working as a Python Django developer and learning React JS.
+- 💞️ I’m looking to collaborate with a vibrant team and work on challenging projects.
 - 📫 How to reach me rasheedkmkotoor@gmail.com
 
 <!---
