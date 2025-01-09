@@ -2,7 +2,7 @@
 - 👀 I’m interested in finding solutions for complex problems and learning new skills.
 - 🌱 I’m working as a Softwar Engineer, focusing on Python Django and learning React JS.
 - 💞️ I’m looking to collaborate with a vibrant team and work on challenging projects.
-- 📫 How to reach me rasheedkmkotoor@gmail.com
+- 📫 How to reach me rasheedkmkotoor@gmail.com / 9497117447
 
 <!---
 rasheedkotoor/rasheedkotoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
