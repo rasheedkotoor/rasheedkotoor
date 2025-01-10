@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rasheedkotoor
+- 👋 Hi, I’m Abdul Rasheed from Kerala, India.
 - 👀 I’m interested in finding solutions for complex problems and learning new skills.
 - 🌱 I’m working as a Softwar Engineer, focusing on Python Django and learning React JS.
 - 💞️ I’m looking to collaborate with a vibrant team and work on challenging projects.
