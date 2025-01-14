@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Abdul Rasheed from Kerala, India.
-- 👀 I’m interested in finding solutions for complex problems and learning new skills.
-- 🌱 I’m working as a Softwar Engineer, focusing on Python Django and learning React JS.
-- 💞️ I’m looking to collaborate with a vibrant team and work on challenging projects.
-- 📫 How to reach me rasheedkmkotoor@gmail.com / 9497117447
+- 👀 I’m passionate about solving complex problems and continuously learning new skills.
+- 🌱 I’m currently working as a Software Engineer, focusing on Python Django and exploring React JS. My goal is to become a full-stack developer and lead end-to-end project development.
+- ✨ Recently, I developed a scheduler microservice that optimized job management through scalable APIs.
+- 💞️ I thrive in team environments and value collaboration, mentorship, and knowledge sharing.
+- 🌟 In my free time, I enjoy hackathons and exploring emerging technologies like ML and DL.
+- 📫 Reach me at rasheedkmkotoor@gmail.com / 9497117447
+
 
 <!---
 rasheedkotoor/rasheedkotoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
