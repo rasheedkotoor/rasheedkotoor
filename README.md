@@ -41,7 +41,7 @@ ___
 ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-FF6C00?style=flat&logo=amazonrds&logoColor=white)
 
 <!-- Testing, Automation, and Documentation -->
-![Karate](https://img.shields.io/badge/-Karate-F05032?style=flat&logo=Karate&logoColor=white)
+![Karate](https://img.shields.io/badge/-Karate-181717?style=flat&logo=Karate)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-1F6F3A?style=flat&logo=Swagger&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
